@@ -1,0 +1,60 @@
+body {
+
+    background-image: url("kk.jpg");
+
+    background-repeat: no-repeat;
+
+    background-size: 100%;
+
+}
+
+
+
+p{
+
+    margin-top: 80px;
+
+    font-size: 50px;
+
+    margin-left: 850px;
+
+    font-family:Allessa Personal Use;
+
+}
+
+
+
+h1{
+
+
+
+    font-size: 60px;
+
+    margin-left: 800px;
+
+    font-family: Allessa Personal Use;
+
+    margin-top: -80px;
+
+}
+
+
+
+button{
+
+    margin-left: 1050px;
+
+    font-size: 30px;
+
+    color: black;
+
+    font-family: Comic Sans Ms;
+
+    margin-top: 240px;
+
+    background-color: darkgoldenrod;
+
+}
+
+
+
