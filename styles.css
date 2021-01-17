@@ -1,0 +1,149 @@
+body {
+
+    background-color: darkgoldenrod;
+
+}
+
+
+
+.Hi{
+
+    margin-top: 70px;
+
+    text-align: center;
+
+    font-family: Comic Sans Ms;
+
+ }
+
+
+
+ h2{
+
+  margin-left: 375px;
+
+  font-size: 23px;
+
+  font-family: Comic Sans Ms;
+
+ }
+
+
+
+ h3{
+
+    margin-left: 700px;
+
+    font-size: 23px; 
+
+    margin-top: -52px;
+
+    font-family: Comic Sans Ms;
+
+ }
+
+
+
+ .hello{
+
+    margin-left: 423px;
+
+    font-size: 30px;
+
+    color: black;
+
+    font-family: Comic Sans Ms;
+
+    margin-top: -250px;
+
+    background-color: darkgoldenrod;
+
+ }
+
+
+
+ .hello:hover {
+
+    color:black;
+
+    background-color: orangered;
+
+
+
+}
+
+
+
+.dropdown-content{
+
+    font-size:30px;
+
+    float: right;
+
+    margin-right: 440px;
+
+    margin-top: -13px;
+
+}
+
+
+
+.buttonclear {
+
+    margin-left: 4px;
+
+    font-size: 20px;
+
+    font-family: Comic sans ms;
+
+    background-color: orangered;
+
+}
+
+
+
+
+
+.buttonclear:hover {
+
+    color:white;
+
+    background-color: black;
+
+
+
+}
+
+.btnshow {
+
+    margin-left: 7px;
+
+    font-size: 20px;
+
+    font-family: Comic sans ms;
+
+    background-color: orangered;
+
+}
+
+
+
+
+
+.btnshow:hover {
+
+    color:white;
+
+    background-color: black;
+
+
+
+}
+
+
+
+.imgmoto {
+
+    background-color: white;
+
+}
